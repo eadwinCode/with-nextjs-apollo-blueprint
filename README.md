@@ -1,6 +1,6 @@
 # Nextjs boilerplate for graphql
 
-This is just a quick start project for nextjs and graphql with all the authentication problems managed both on the server side or the client, users choice.
+This is just a quick start up project for React Nextjs, graphql and blueprint UI kit. The project has some basic authentication implementations managed both on the server or the client side, the choice is yours.
 
 ## Installation
 ```
